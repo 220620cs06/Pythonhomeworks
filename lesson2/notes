@@ -1,0 +1,15 @@
+# int,float,complex
+
+import math
+a=100_000
+print(type(a))
+print(math.sqrt(a))
+
+c=4+2j
+print(c.real)
+print(c.imag)
+print(a.real)
+print(a.imag)
+
+
+
